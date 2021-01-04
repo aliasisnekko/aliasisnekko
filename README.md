@@ -1,4 +1,4 @@
-### Hello, I,m Nekko 👋
+### Hello, I'm Nekko 👋
 
 <!--
 **aliasisnekko/aliasisnekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
